@@ -115,3 +115,6 @@ garantiza la seguridad como lo vemos en las paginas web con el candado
 10) ¿Por qué es importante usar CORS en una API Rest?
 
 controla qué dominios externos pueden hacer peticiones a tu API. Por defecto el navegador bloquea cualquier petición que venga de un dominio diferente al del servidor.
+
+11) video
+https://youtu.be/UO2wNgF2Q9s
